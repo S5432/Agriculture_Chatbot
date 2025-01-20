@@ -1,8 +1,6 @@
 
-```markdown
-# Agricultural Domain Based Chatbot
 
-## 🚜 Agricultural Chatbot for Farmers
+## Project Title: 🚜 Agricultural Chatbot for Farmers
 
 Welcome to the **Agricultural Chatbot** project! This chatbot is designed to help farmers by answering common agricultural questions related to crops like beans, maize, and cassava. It uses **cosine similarity** to match users' questions with pre-defined questions and provide helpful answers.
 
